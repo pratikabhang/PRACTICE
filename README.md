@@ -1,5 +1,3 @@
-# PRACTICE
-
 # PRACTICE — Programming & Technical Learning
 
 **Practice Programs | Problem Solving | Continuous Learning**
